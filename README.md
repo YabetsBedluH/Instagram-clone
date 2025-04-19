@@ -1,3 +1,1 @@
-<img src="https://raw.githubusercontent.com/YabetsBedlu/Instagram-clone/main/path/to/C:\Users\yabet\Downloads\Telegram Desktop\pic1.jpg" width="250">
-
-
+<img src="https://raw.githubusercontent.com/YabetsBedlu/Instagram-clone/main/pic1.jpg" width="250">
